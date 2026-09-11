@@ -22,9 +22,24 @@
         />
       </div>
 
-      <div class="text-h6 q-mb-md text-weight-bold text-grey-9">Servicios</div>
+      <div class="text-h6 q-mb-md text-weight-bold text-grey-9">Navegación</div>
       
       <q-list padding class="q-gutter-y-sm">
+        <!-- Botón de Inicio (Home) añadido -->
+        <q-item 
+          clickable 
+          v-ripple 
+          to="/" 
+          exact
+          class="bg-white shadow-1 rounded-borders menu-item-custom"
+          active-class="bg-green-2 text-green-9 text-weight-bold"
+        >
+          <q-item-section avatar>
+            <q-icon name="home" color="primary" />
+          </q-item-section>
+          <q-item-section>Inicio</q-item-section>
+        </q-item>
+
         <q-item 
           clickable 
           v-ripple 

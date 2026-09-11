@@ -1,5 +1,6 @@
 // src/routes/routes.js
 import { createRouter, createWebHashHistory } from 'vue-router'
+import Home from '../views/Home.vue'
 import Enfermeria from '../views/Enfermeria.vue'
 import Bienestar from '../views/Bienestar.vue'
 import Biblioteca from '../views/Biblioteca.vue'
@@ -9,7 +10,7 @@ import Coordinacion from '../views/Coordinacion.vue'
 // import Acerca from '../views/Acerca.vue'
 
 const routes = [
-  { path: '/', redirect: '/enfermeria' },
+  { path: '/', component: Home },
   { path: '/enfermeria', component: Enfermeria },
   { path: '/bienestar', component: Bienestar },
   { path: '/biblioteca', component: Biblioteca },

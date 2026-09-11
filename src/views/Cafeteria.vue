@@ -1,6 +1,6 @@
 ﻿<template>
   <div class="q-pa-md" style="max-width: 900px; margin: 0 auto;">
-    <q-img src="a/img/cafeteria.png" style="height: 250px; border-radius: 8px;" class="q-mb-md" />
+    <q-img src="/img/cafeteria.png" style="height: 250px; border-radius: 8px;" class="q-mb-md" />
     
     <h1 class="text-h4 text-weight-bold text-primary q-my-sm">Cafetería y Zona de Alimentos</h1>
     <p class="text-body1 text-grey-8 q-mb-md" style="line-height: 1.6;">

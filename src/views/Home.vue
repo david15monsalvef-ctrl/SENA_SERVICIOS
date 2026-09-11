@@ -4,9 +4,8 @@
     <div class="hero-banner relative-position flex flex-center text-center q-pa-xl rounded-borders q-mb-lg shadow-2">
       <div class="hero-overlay"></div>
       <div class="relative-position z-top text-white">
-        <!-- Logo real del SENA desde public/img -->
         <q-img 
-          src="/img/LGOSENA.png" 
+          src="/img/Sena_-sangil.png" 
           alt="Logo SENA" 
           style="width: 90px; height: 90px;" 
           class="q-mb-md"
@@ -43,6 +42,35 @@
             <div class="text-body2 text-grey-8 q-pl-md">+57 607 724 8113</div>
           </div>
         </q-card>
+      </div>
+    </div>
+
+    <!-- Sección del Equipo Desarrollador -->
+    <div class="q-mb-xl">
+      <div class="text-h5 text-weight-bold text-primary q-mb-md flex items-center">
+        <q-icon name="code" class="q-mr-sm" /> Equipo Desarrollador
+      </div>
+      <div class="row">
+        <div class="col-12 col-sm-6 col-md-4">
+          <q-card class="bg-grey-1 shadow-1 q-pa-md">
+            <div class="row items-center q-col-gutter-md">
+              <div class="col-auto">
+                <q-avatar size="50px" color="primary" text-color="white">
+                  <q-icon name="person" size="30px" />
+                </q-avatar>
+              </div>
+              <div class="col">
+                <div class="text-subtitle1 text-weight-bold text-dark">David Monsalve</div>
+                <div class="text-body2 text-grey-8 flex items-center q-mt-xs">
+                  <q-icon name="email" size="16px" class="q-mr-xs text-primary" /> david15monsalvef@gmail.com
+                </div>
+                <div class="text-body2 text-grey-8 flex items-center q-mt-xs">
+                  <q-icon name="phone" size="16px" class="q-mr-xs text-positive" /> 3227311635
+                </div>
+              </div>
+            </div>
+          </q-card>
+        </div>
       </div>
     </div>
   </q-page>

@@ -55,8 +55,8 @@
           <q-card class="bg-grey-1 shadow-1 q-pa-md">
             <div class="row items-center q-col-gutter-md">
               <div class="col-auto">
-                <q-avatar size="50px" color="primary" text-color="white">
-                  <q-icon name="person" size="30px" />
+                <q-avatar size="65px" class="shadow-2">
+                  <img src="/img/AVATAR.png" alt="Avatar Desarrollador">
                 </q-avatar>
               </div>
               <div class="col">
@@ -65,7 +65,7 @@
                   <q-icon name="email" size="16px" class="q-mr-xs text-primary" /> david15monsalvef@gmail.com
                 </div>
                 <div class="text-body2 text-grey-8 flex items-center q-mt-xs">
-                  <q-icon name="phone" size="16px" class="q-mr-xs text-positive" /> 3227311635
+                  <q-icon name="phone" size="16px" class="q-mr-xs text-positive" /> +57 3227311645
                 </div>
               </div>
             </div>

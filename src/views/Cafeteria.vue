@@ -50,7 +50,7 @@
             <q-avatar size="100px" class="q-mb-md shadow-2 bg-grey-3">
               <img src="/img/cafeteria2.jpeg" alt="Avatar Encargado">
             </q-avatar>
-            <div class="text-subtitle1 text-weight-bold text-grey-9">Luz Karime Carreño</div>
+            <div class="text-subtitle1 text-weight-bold text-grey-9">Laura Carreño</div>
             <div class="text-body2 text-grey-7 q-mb-xs">coordinadora de cafetería</div>
             <div class="text-caption text-primary">lcarreno@sena.edu.com</div>
           </div>

@@ -82,7 +82,7 @@
 
 <style scoped>
 .hero-banner {
-  background-image: url('/img/cafeteria2.jpeg');
+  background-image: url('/img/cafeteria2.jpg');
   background-size: cover;
   background-position: center;
   min-height: 320px;

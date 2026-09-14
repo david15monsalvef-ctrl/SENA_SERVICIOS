@@ -20,6 +20,9 @@
               <q-item-section class="text-weight-bold">Lunes a Viernes (Tarde):</q-item-section>
               <q-item-section side>1:00 PM - 10:00 PM</q-item-section>
             </q-item>
+
+           
+
             <q-item>
               <q-item-section class="text-weight-bold">Sábados:</q-item-section>
               <q-item-section side>8:00 AM - 4:00 PM</q-item-section>

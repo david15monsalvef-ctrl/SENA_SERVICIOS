@@ -5,7 +5,7 @@
         <q-btn dense flat round icon="menu" @click="drawerOpen = !drawerOpen" />
         
         <q-avatar square size="35px" class="q-ml-sm q-mr-sm">
-          <img src="https://virtual.fundetec.edu.co/wp-content/uploads/2024/09/las-mejores-carreras-tecnicas-en-el-sena.png" alt="Logo SENA">
+          <img src="/img/LGOSENA.png" alt="Logo SENA">
         </q-avatar>
         <q-toolbar-title>Servicios Institucionales - SENA</q-toolbar-title>
 
@@ -16,7 +16,7 @@
       <!-- Imagen decorativa en la parte superior del menú -->
       <div class="q-mb-md text-center">
         <q-img 
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ufwLBCHEHnVWpcwP-JKO8pRXrq_pcWXoAF0ZTOlipjc2vTeCswcBVLlK&s=10" 
+          src="/img/AGROTURIS.png" 
           style="height: 120px; border-radius: 8px;" 
           fit="cover"
         />
